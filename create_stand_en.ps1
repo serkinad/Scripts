@@ -29,9 +29,9 @@
     ...
 
 .NOTES
-    Author: [Your Name/Department]
+    Author: Aleksandr Serkin
     Version: 1.0
-    Creation Date: $(Get-Date -Format "dd.MM.yyyy")
+    Creation Date: 14.01.2026
     
     REQUIREMENTS:
     1. Hyper-V must be installed and enabled
